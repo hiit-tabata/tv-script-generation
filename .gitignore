@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# project ignore
+save.data-00000-of-00001
+save.index
+save.meta
